@@ -16,6 +16,7 @@ import com.gcit.lms.entity.Author;
 import com.mysql.jdbc.Statement;
 
 public class AuthorDAO extends BaseDAO implements ResultSetExtractor<List<Author>>{
+	//jenkins
 	
 
 	public void addAuthor(Author author) throws SQLException{
