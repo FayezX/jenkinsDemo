@@ -37,7 +37,7 @@ import com.gcit.lms.service.LibrarianService;
 @RestController
 @RequestMapping(value = "/admin")
 public class AdminController {
-    //jenkinds
+    //jenkindssdfewfew
     //jenkins 10
 
 	@Autowired
